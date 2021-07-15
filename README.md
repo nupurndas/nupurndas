@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nupurndas
-- 👀 I’m interested in coding
+- 👀 I’m interested in coding. I have 9 years of experience in software development.
 - 🌱 I’m currently learning react native
-- 💞️ I’m looking to collaborate on react native projects
+- 💞️ I’m looking to collaborate on c#,.Net, Javascript and react projects
 - 📫 How to reach me nupurneogi8@gmail.com
 
 <!---
