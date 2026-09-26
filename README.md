@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nupurndas
 - 👀 I’m interested in coding. I have 9 years of experience in software development.
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning AI concepts
 - 💞️ I’m looking to collaborate on c#,.Net, Javascript and react projects
 
 
